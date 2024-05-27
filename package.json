@@ -13,5 +13,8 @@
     "@rollup/plugin-typescript": "^11.1.6",
     "rollup-plugin-dts": "^6.1.1",
     "tslib": "^2.6.2"
+  },
+  "dependencies": {
+    "wing-sequence": "^0.0.2"
   }
 }
