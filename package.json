@@ -1,0 +1,16 @@
+{
+  "name": "wing-appender",
+  "private": true,
+  "version": "0.0.1",
+  "description": "wing appender",
+  "keywords": [
+    "wing",
+    "appender"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "tslib": "^2.6.2"
+  }
+}
